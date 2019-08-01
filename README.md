@@ -11,4 +11,4 @@ This folder contains:
 1. an R script to perform simulations of analogue importance sampling to simulate ensembles of extreme heatwaves
 2. an sh script to run he R script in batch, on parallel computers
 3. An input data file of mean daily temperatures in five European stations, from the ECA&D database
-4. R scripts to analyze the output and make figures
+4. Two R scripts to analyze the output and make figures
