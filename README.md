@@ -12,3 +12,5 @@ This folder contains:
 2. an sh script to run he R script in batch, on parallel computers
 3. An input data file of mean daily temperatures in five European stations, from the ECA&D database
 4. Two R scripts to analyze the output and make figures
+
+The v0.5-alpha version can be obtained through: https://zenodo.org/badge/latestdoi/190576322
