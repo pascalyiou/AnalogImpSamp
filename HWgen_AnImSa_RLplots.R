@@ -3,15 +3,9 @@
 ## Par Pascal Yiou (LSCE), Jan. 2019
 SI=Sys.info()
 if(SI[[1]] == "Darwin"){
-  Rsource="/Users/yiou/programmes/RStat/"
-  ANAdir="/Users/yiou/data/EUCLEIA/"
   OUTdir="/Users/yiou/data/EUCLEIA/"
 }
 if(SI[[1]] == "Linux"){
-  Rsource="/home/users/yiou/RStat/"
-  ANAdir="/home/estimr1/yiou/estimr1/NCEP/"
-  NCEPdir="/home/scratch01/nkadyg/A2C2/NCEP/"
-  TNdir = "/home/estimr1/yiou/estimr1/WEGE/"
   Tdir = "/home/estimr1/yiou/estimr1/ECAD/"
   OUTdir="/home/estimr2/yiou/IMPSAMP/"
 }
